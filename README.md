@@ -44,14 +44,14 @@ Set your video aspect ratio to your monitor aspect and set integer scale to OFF
 
 4.    Once it is working, make a small change in the parameters. (I usually change the “[BEZEL & FRAME COLOR] Color Value/Brightness - Def 10” from the default of 10 to 9.80. Save a shader core preset.
 
-5.    Copy my graphics to a folder of your choice. I use “D:\Games\Retroarch\images”.
+5.    Copy my graphics to a folder of your choice. I use “D:\Games\Retroarch\overlays\bezel\Logo”.
 
 6.    Navigate to the shader preset you saved in step #4. e.g. “D:\Games\RetroArch\shaders\presets\Beetle PSX HW\Beetle PSX HW.slangp”, and open it in a text editor. At the end of the file modify this line,
 
 ![](/images/background_image_info.jpg)
 
 
-to the path of my graphics. e.g. BackgroundImage = "../../../images/Playstation.png".
+to the path of my graphics. e.g. BackgroundImage = "BackgroundImage = "..\overlays\bezel\Logo\Playstation.png".
 
 Make sure you are using one of my HSM shader graphics and not one of my RA overlays. (Although it would still work, you would have to fiddle with parameters to hide the bezel completely.)
 
