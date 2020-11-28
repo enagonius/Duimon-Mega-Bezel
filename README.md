@@ -8,6 +8,10 @@ My Feedback and announcement page is on Libretro:
 
 https://forums.libretro.com/t/duimon-hsm-reflection-shader-graphics-feedback-and-updates/28146
 
+The shader feedback and announcement page is at:
+
+https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512
+
 While developing this art I have a few select goals.
 
 * All art will be vector based.
