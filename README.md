@@ -23,11 +23,11 @@ While developing this art I have a few select goals.
 
 Some screenshots...
 
-![](/images/SNES.png)
+![](./images/SNES.png)
 
-![](/images/Gamecube.png)
+![](./images/Gamecube.png)
 
-![](/images/Super_Famicom.png)
+![](./images/Super_Famicom.png)
 
 
 
@@ -52,7 +52,7 @@ Set your video aspect ratio to your monitor aspect and set integer scale to OFF
 
 6.    Navigate to the shader preset you saved in step #4. e.g. “D:\Games\RetroArch\shaders\presets\Beetle PSX HW\Beetle PSX HW.slangp”, and open it in a text editor. At the end of the file modify this line,
 
-![](/images/background_image_info.jpg)
+![](./images/background_image_info.jpg)
 
 
 to the path of my graphics. e.g. BackgroundImage = "BackgroundImage = "..\overlays\bezel\Logo\Playstation.png".
