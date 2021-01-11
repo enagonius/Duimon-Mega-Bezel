@@ -16,6 +16,7 @@ While developing this art I have a few select goals.
 
 * All art will be vector based.
 * If raster effects are used at any point they will be 300dpi. This may include text layer imports from Photoshop.
+* Backgrounds, for graphics that don’t fill the screen, may be raster images, with the intent that (In future shader versions) users can swap in a background of their choosing.
 * High quality is a must! When using existing art as a reference, it will be paired with photographic references in an effort to improve it's realism and give it a cohesive style.
 * Final raster output of 4K at 300dpi
 * All project files will be provided. Layer structure within the project files will assume that an end user may want to change the bezel size or placement, and *attempt* to make balancing the artwork easy.
