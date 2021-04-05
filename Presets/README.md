@@ -13,7 +13,7 @@ These "Standard" presets use only the generated bezel and frame, with Vintage mo
 
 Other limitations include Decals not being scale-able. Please see HSM's shader thread and the shader readme for more extensive information on the differences between the base shaders.
 
-To keep installation simple and cohesive, I have archived the shaders into a "Presets.zip". Inside the zip you will find a "shaders" folder. Simply extract that folder onto your existing shaders folder and everything will be in the correct place.
+To keep installation simple and cohesive, I have archived the presets into a "Presets.zip". Inside the zip you will find a "shaders" folder. Simply extract that folder onto your existing shaders folder and everything will be in the correct place.
 
 Inside your shaders folder you will now see 4 presets:
 
@@ -36,7 +36,7 @@ Here is a shot of the Vectrex in action.
 
 ![](images/Armor..Attack%20(World)-210405-164644.png)
 
-I have increased the phosphor persistence, glow, and bloom to try and help simulate a vector display.
+I have increased the phosphor persistence, glow, bloom, and eliminated scanlines to try and help simulate a vector display.
 
 It is with great joy that I celebrate the new shader release with the release of my Vectrex graphic. I hope it brings you equal joy.
 
