@@ -36,7 +36,7 @@ Here is a shot of the Vectrex in action.
 
 ![](images/Armor..Attack%20(World)-210405-164644.png)
 
-I have increased the phosphor persistence, glow, bloom, and eliminated scanlines to try and help simulate a vector display.
+I have increased the phosphor persistence, glow, and bloom, and eliminated scanlines to try and help simulate a vector display.
 
 It is with great joy that I celebrate the new shader release with the release of my Vectrex graphic. I hope it brings you equal joy.
 
