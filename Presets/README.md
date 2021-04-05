@@ -43,6 +43,6 @@ It is with great joy that I celebrate the new shader release with the release of
 
 The advanced presets will be a much greater undertaking, and involve quite a bit of graphics wizardry. They will include a few fancy bling-filled vintage monitors, scale-able handhelds with independent backgrounds, (I will include a set of these you can choose from or you can use an image of your own.) a phosphor layer on vintage TVs, custom HDR derived screen reflections, color adjustable bodies on some handhelds and consoles. and many things I have yet to discover myself.
 
-I anticipate a few growing pains. Please don't hesitate to post on my forum thread when you run into problems or disover any mistakes I am sure I made.
+I anticipate a few growing pains. Please don't hesitate to post on my forum thread when you run into problems or discover any mistakes I am sure I made.
 
 
