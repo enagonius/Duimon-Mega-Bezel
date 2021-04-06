@@ -23,6 +23,9 @@ These presets make use of the new Simple Presets feature in RA and new path synt
 
 I have taken the liberty of creating game presets for the Vectrex games. They are in a "VecX" folder inside the "Standard" folder. Copy this folder to your config folder and, as long as your roms share the same names as the presets, they will automatically work. I have used the standard No-Intro naming convention. The Vectrex screen overlays provided are the standard available on the Libretro GitHub, with a few custom exceptions. They can be found on my GitHub in a "Vectrex_Overlays_Standard" folder and must share the same folder structure as my repo. (i.e. "Vectrex_Overlays_Standard" must be inside "Duimon" along side the "Logo" folder. For now they are 1080p and raster.
 
+Knowing we have all levels of user experience, here is a visual reference to make things a bit more clear...
+![](images/tree.png)
+
 Here is a shot of the Vectrex in action.
 
 ![](images/Armor..Attack%20(World)-210405-164644.png)
