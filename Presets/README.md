@@ -5,7 +5,7 @@ These are presets for the graphics I have created for HSM's Mega Bezel Reflectio
 
 They are compatible with v0.9.00 of the shader and, barring some unforeseen complication, should remain compatible with future versions. They use the "Logo" versions of my graphics.
 
-The path to the graphics has changed from ..Retroarch/overlays/bezel/Logo" to "..Retroarch/overlays/bezel/Duimon/Logo" to allow other artists graphics to be in the same path.
+The path to the graphics has changed from ..Retroarch/overlays/bezel/Logo" to "..Retroarch/overlays/bezel/Duimon/Logo" to allow other artist's graphics to be in the same path.
 
 For now I have created presets for only the "Standard" base presets, most use the DrVenom CRT but some use the LCD.
 
