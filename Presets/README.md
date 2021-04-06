@@ -15,16 +15,7 @@ Other limitations include Decals not being scale-able. Please see HSM's shader t
 
 To keep installation simple and cohesive, I have archived the presets into a "Presets.zip". Inside the zip you will find a "shaders" folder. Simply extract that folder onto your existing shaders folder and everything will be in the correct place.
 
-Inside your shaders folder you will now see 4 presets:
-
-1. Duimon_Advanced.slangp
-2. Duimon_Advanced_LCD.slangp
-3. Duimon_Standard.slangp
-4. Duimon_Standard_LCD.slangp
-
-You will also see a "Duimon" folder.
-
-For these presets to work, the four presets MUST remain in the shaders root folder. The "Duimon" folder can be moved anywhere you want as long as it is under the root Retroarch path, although I recommend leaving it where it is to make future updates painless.
+Inside your shaders folder you will now see a "Duimon" folder. This folder contains the presets and can be moved anywhere you want as long as it is under the root Retroarch path, although I recommend leaving it where it is to make future updates painless.
 
 Inside the "Duimon" folder you will find "Standard" and "Advanced" folders. For now only the Standard is populated.
 
