@@ -47,7 +47,9 @@ Hybrid presets use a combination of HSM's shader, (To place graphics and do the 
 
 I have had these presets running as smooth as silk on a GTX 750 2GB (I have not tried them on integrated graphics.)
 
-The installation is the same as the above, I have reorganized the Graphics repo a bit and duplicated my RA overlays folder to comply with the instructions.
+The installation is the same as the above, I have reorganized the Graphics repo a bit and duplicated my RA overlays folder to comply with the instructions. These will require downloading both the "Overlay-Hybrid" AND the "Overlays" folder from my "HSM-Reflection-Shader-Graphics\Duimon" repo folder.
+
+Once again, the repo mirrors the required HDD folder structure.
 
 In addition to this I have include an example folder "Beetle PSX HW" in the Hybrid presets folder. It contains a "Beetle PSX HW.slangp" which is just a copy of the "Playstation_Hybrid.slangp" renamed to the core name, and a PS1.cfg. This is a content directory override to automatically configure RA for use with the preset. If you are using the Beetle PSX HW core just copy the whole "Beetle PSX HW" folder into your config folder, and load a game. It should just work. You may need to rename the *.cfg to match the name of your ROMs folder.
 
@@ -57,9 +59,11 @@ Here is a graphic to help make sense of this.
 
 ![](images/tree_hybrid.png)
 
-I will be adding more Hybrid presets as time permits.
+Right now all of the existing graphics use the same setup, since choice of cores, and the names of ROM folder vary, I will only include the one example. You should be able to open the *.cfg and use the settings in your own configs. I will also leave the renaming of the hybrid presets to the user.
 
-Since choice of cores, and the names of ROM folder vary, I will only include the one example. You should be able to open the *.cfg and use the settings in your own configs. I will also leave the renaming of the hybrid presets to the user.
+As updates to the shader enable more complex Hybrid presets, I will add presets for specific systems that don't conform to the existing example.
+
+
 
 You can also use the traditional methods of creating a content directory preset or rename the PS1.cfg to "Beetle PSX HW.cfg" and make it a core preset etc.
 
