@@ -1,0 +1,11 @@
+#reference ":/shaders/shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADVANCED__GUEST-DrVENOM.slangp"
+HSM_ASPECT_RATIO_MODE = "2.000000"
+HSM_BZL_NOISE = "10.000000"
+HSM_FRM_SHADOW_OPACITY = "100.000000"
+HSM_FRM_SHADOW_WIDTH = "50.000000"
+HSM_FRM_OUTER_EDGE_SHADING = "40.000000"
+HSM_LED_OPACITY = "100.000000"
+HSM_NIGHT_OPACITY = "100.000000"
+BackgroundImage = ":/shaders/Duimon/Graphics/SONY_Playstation_2/Playstation2.png"
+LEDImage = ":/shaders/Duimon/Graphics/SONY_Playstation_2/Playstation2_LED.png"
+
