@@ -57,3 +57,4 @@ BackgroundVertImage = ":/shaders/Duimon-Mega-Bezel/Graphics/PDP-1/PDP1_Backgroun
 CabinetGlassImage = ":/shaders/Duimon-Mega-Bezel/Graphics/PDP-1/PDP1_Glass.png"
 BezelVertImage = ":/shaders/Duimon-Mega-Bezel/Graphics/PDP-1/PDP1_Bezel.png"
 TopLayerImage = ":/shaders/Duimon-Mega-Bezel/Graphics/PDP-1/PDP1_Extra.png"
+NightLightingImage = ":/shaders/Duimon-Mega-Bezel/Graphics/PDP-1/PDP1_Night_Layer.png"
