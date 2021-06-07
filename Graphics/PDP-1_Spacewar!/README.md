@@ -1,8 +1,8 @@
-### **PDP-1 and Spacewar! instructions.**   
+### **PDP-1 Spacewar! instructions.**   
 
 Make sure my graphics and presets are updated with the new PDP-1 assets.
 
-In this folder you will find a "pdp1.zip" file. Unpack it to your Retroarch folder.
+In this folder you will find a "PDP-1_Spacewar!.zip" file. Unpack it to your Retroarch folder.
 
 ![](images/pdp1_tree.png)
 
@@ -11,7 +11,7 @@ Execute the pdp1.cmd batch file that is not in your root Retroarch folder.
 ...contents of batch file...
 
 ```dos
-retroarch.exe -L ".\cores\mame_libretro.dll" "pdp1 -ptap1 .\shaders\Duimon-Mega-Bezel\Graphics\PDP-1\spacewar!.rim"
+retroarch.exe -L ".\cores\mame_libretro.dll" "pdp1 -ptap1 .\shaders\Duimon-Mega-Bezel\Graphics\PDP-1_Spacewar!\spacewar!.rim"
 ```
  
 Once the content is loaded you need to press Crtl+ENTER to start the tape reader input.
