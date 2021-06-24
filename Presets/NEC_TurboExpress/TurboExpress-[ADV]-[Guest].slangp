@@ -1,4 +1,4 @@
-#reference ":/shaders/shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADVANCED__GUEST-DrVENOM.slangp"
+#reference ":/shaders/shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
 HSM_ASPECT_RATIO_EXPLICIT = "1.334002"
 HSM_NON_INTEGER_SCALE = "46.770222"
 HSM_SCREEN_POSITION_Y = "94.000000"
