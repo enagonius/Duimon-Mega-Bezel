@@ -1,0 +1,12 @@
+#reference ":/shaders/shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
+HSM_ASPECT_RATIO_MODE = "2.000000"
+HSM_BZL_NOISE = "10.000000"
+HSM_FRM_SHADOW_OPACITY = "100.000000"
+HSM_FRM_SHADOW_WIDTH = "50.000000"
+HSM_FRM_OUTER_EDGE_SHADING = "40.000000"
+HSM_LED_OPACITY = "100.000000"
+HSM_NIGHT_OPACITY = "100.000000"
+HSM_BZL_COLOR_VALUE = "70.000000"
+BackgroundImage = ":/shaders/Duimon-Mega-Bezel/Graphics/NEC_PC-8801/PC-8801.png"
+LEDImage = ":/shaders/Duimon-Mega-Bezel/Graphics/NEC_PC-8801/PC-8801_LED.png"
+
