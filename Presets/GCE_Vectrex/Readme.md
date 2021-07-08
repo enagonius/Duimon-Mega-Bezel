@@ -1,4 +1,4 @@
-These are presets for the GCE Vectrx. The default presets use a generic Mega Bezel themed screen overlay.
+These are presets for the GCE Vectrex. The default presets use a generic Mega Bezel themed screen overlay.
 
 There are Game Overrides for both the Standard and Advanced Presets that are set up to use the common community Vectrex screen overlays. The main difference between the Standard and Advanced is that the console can scale and has a separate, replaceable background in the Advanced.
 
