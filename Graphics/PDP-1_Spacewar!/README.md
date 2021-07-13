@@ -6,7 +6,7 @@ In this folder you will find a "PDP-1_Spacewar!.zip" file. Unpack it to your Ret
 
 ![](images/pdp1_tree.png)
 
-Execute the pdp1.cmd batch file that is not in your root Retroarch folder.
+Execute the "pdp1.cmd" batch file that is in your root Retroarch folder.
 
 ...contents of batch file...
 
