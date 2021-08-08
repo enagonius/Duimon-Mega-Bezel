@@ -1,6 +1,6 @@
 ### **Basic Presets.**
 
-Basic presets use the "MBZ__4__BASIC__GDV.slangp" or the "MBZ__4__BASIC__LCD-GRID.slangp" base preset. These presets share a subset of features with the Standard base presets and require a more modest PC. They are essentially overlays with a reflection.
+Basic presets use the "MBZ__4__BASIC__GDV.slangp" or the "MBZ__4__BASIC__LCD-GRID.slangp" base preset. These presets share a subset of features with the Basic with Reflection base presets and require a more modest PC. They are essentially overlays.
 
 The "MBZ__4" designation places them lowest on the list for PC requirements.
 
