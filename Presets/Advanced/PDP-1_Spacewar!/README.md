@@ -1,1 +1,0 @@
-The instructions for installation and use of the DEC PDP-1 and Spacewar! are in the "Graphics/PDP-1_Spacewar!" folder. Have fun! :smile:

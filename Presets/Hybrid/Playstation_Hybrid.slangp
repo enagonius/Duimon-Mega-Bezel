@@ -1,8 +1,0 @@
-#reference ":/shaders/shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__BASIC-BORDER-WITH-REFLECT__GUEST-DrVENOM.slangp"
-HSM_NON_INTEGER_SCALE = "84.369980"
-USE_IMAGE_FOR_PLACEMENT = "0.000000"
-HSM_BZL_WIDTH = "97.000000"
-HSM_BZL_HEIGHT = "76.000000"
-HSM_STANDARD_IMG_ASPECT_RATIO = "1.000000"
-HSM_INTRO_WHEN_TO_SHOW = "0.000000"
-BackgroundImage = ":/shaders/Duimon-Mega-Bezel/Graphics/_Hybrid/Backgrounds/Playstation.png"

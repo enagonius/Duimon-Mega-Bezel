@@ -2,4 +2,4 @@
 HSM_ASPECT_RATIO_MODE = "5.000000"
 HSM_NON_INTEGER_SCALE = "58.770267"
 HSM_CURVATURE_MODE = "-1.000000"
-BackgroundImage = ":/shaders/Duimon-Mega-Bezel/Graphics/_Basic/Atari_Lynx/Lynx_Alt_Basic.png"
+BackgroundImage = "../../../Graphics/_Basic/Atari_Lynx/Lynx_Alt_Basic.png"

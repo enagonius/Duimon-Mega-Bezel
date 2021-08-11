@@ -1,0 +1,1 @@
+retroarch.exe -L ".\cores\mame_libretro.dll" "pdp1 -ptap1 .\shaders\Mega_Bezel_Community\Duimon-Mega-Bezel\Graphics\PDP-1_Spacewar!\spacewar!.rim" 
