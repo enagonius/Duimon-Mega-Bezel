@@ -10,6 +10,6 @@ HSM_STANDARD_DECAL_SCALE_WITH_FRAME = "1.000000"
 HSM_BZL_COLOR_VALUE = "62.000000"
 IntroImage = "../../../Graphics/_Backgrounds/Duimon_OSD.png"
 BackgroundImage = "../../../Graphics/ScummVM/ScummVM.png"
-DecalImage = "../../../Graphics/ScummVM/ScummVM_Decal.png"
+DeviceImage = "../../../Graphics/ScummVM/ScummVM_Decal.png"
 LEDImage = "../../../Graphics/ScummVM/ScummVM_LED.png"
 

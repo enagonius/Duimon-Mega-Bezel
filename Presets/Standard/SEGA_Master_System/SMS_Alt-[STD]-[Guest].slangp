@@ -11,6 +11,6 @@ HSM_BZL_COLOR_SATURATION = "75.000000"
 HSM_BZL_COLOR_VALUE = "60.000000"
 IntroImage = "../../../Graphics/_Backgrounds/Duimon_OSD.png"
 BackgroundImage = "../../../Graphics/SEGA_Master_System/SMS_Alt.png"
-DecalImage = "../../../Graphics/SEGA_Master_System/SMS_Alt_Decal.png"
+DeviceImage = "../../../Graphics/SEGA_Master_System/SMS_Alt_Decal.png"
 LEDImage = "../../../Graphics/SEGA_Master_System/SMS_Alt_LED.png"
 

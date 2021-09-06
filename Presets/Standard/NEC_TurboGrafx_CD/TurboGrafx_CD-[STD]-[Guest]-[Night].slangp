@@ -10,6 +10,6 @@ HSM_STANDARD_DECAL_SCALE_WITH_FRAME = "1.000000"
 HSM_BZL_COLOR_VALUE = "20.000000"
 IntroImage = "../../../Graphics/_Backgrounds/Duimon_OSD.png"
 BackgroundImage = "../../../Graphics/NEC_TurboGrafx_CD/TurboGrafx_CD.png"
-DecalImage = "../../../Graphics/NEC_TurboGrafx_CD/TurboGrafx_CD_Decal.png"
+DeviceImage = "../../../Graphics/NEC_TurboGrafx_CD/TurboGrafx_CD_Decal.png"
 LEDImage = "../../../Graphics/NEC_TurboGrafx_CD/TurboGrafx_CD_LED.png"
 

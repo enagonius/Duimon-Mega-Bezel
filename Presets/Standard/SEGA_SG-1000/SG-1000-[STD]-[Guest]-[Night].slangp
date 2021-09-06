@@ -12,6 +12,6 @@ HSM_BZL_COLOR_SATURATION = "80.000000"
 HSM_BZL_COLOR_VALUE = "69.000000"
 IntroImage = "../../../Graphics/_Backgrounds/Duimon_OSD.png"
 BackgroundImage = "../../../Graphics/SEGA_SG-1000/SG-1000.png"
-DecalImage = "../../../Graphics/SEGA_SG-1000/SG-1000_Decal.png"
+DeviceImage = "../../../Graphics/SEGA_SG-1000/SG-1000_Decal.png"
 LEDImage = "../../../Graphics/SEGA_SG-1000/SG-1000_LED.png"
 

@@ -8,6 +8,6 @@ HSM_LED_OPACITY = "0.000000"
 HSM_STANDARD_DECAL_SCALE_WITH_FRAME = "1.000000"
 IntroImage = "../../../Graphics/_Backgrounds/Duimon_OSD.png"
 BackgroundImage = "../../../Graphics/SONY_Playstation/Playstation_Alt.png"
-DecalImage = "../../../Graphics/SONY_Playstation/Playstation_Alt_Decal.png"
+DeviceImage = "../../../Graphics/SONY_Playstation/Playstation_Alt_Decal.png"
 LEDImage = "../../../Graphics/SONY_Playstation/Playstation_Alt_LED.png"
 

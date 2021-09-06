@@ -8,6 +8,6 @@ HSM_LED_OPACITY = "0.000000"
 HSM_STANDARD_DECAL_SCALE_WITH_FRAME = "1.000000"
 IntroImage = "../../../Graphics/_Backgrounds/Duimon_OSD.png"
 BackgroundImage = "../../../Graphics/SEGA_Mark_III/MarkIII.png"
-DecalImage = "../../../Graphics/SEGA_Mark_III/MarkIII_Decal.png"
+DeviceImage = "../../../Graphics/SEGA_Mark_III/MarkIII_Decal.png"
 LEDImage = "../../../Graphics/SEGA_Mark_III/MarkIII_LED.png"
 

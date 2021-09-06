@@ -9,6 +9,6 @@ HSM_NIGHT_OPACITY = "100.000000"
 HSM_STANDARD_DECAL_SCALE_WITH_FRAME = "1.000000"
 IntroImage = "../../../Graphics/_Backgrounds/Duimon_OSD.png"
 BackgroundImage = "../../../Graphics/Atari_800/Atari_800.png"
-DecalImage = "../../../Graphics/Atari_800/Atari_800_Decal.png"
+DeviceImage = "../../../Graphics/Atari_800/Atari_800_Decal.png"
 LEDImage = "../../../Graphics/Atari_800/Atari_800_LED.png"
 
