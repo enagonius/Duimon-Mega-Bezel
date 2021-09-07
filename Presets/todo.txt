@@ -1,3 +1,0 @@
-NEC_PC-8801
-NEC_PC-9801
-TurboExpress

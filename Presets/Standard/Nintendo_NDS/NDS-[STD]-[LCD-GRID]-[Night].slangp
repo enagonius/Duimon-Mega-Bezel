@@ -1,4 +1,4 @@
-#reference "shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__2__STD__LCD-GRID.slangp"
+#reference ":/shaders/shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__2__STD__LCD-GRID.slangp"
 HSM_NON_INTEGER_SCALE = "116.369492"
 HSM_SCREEN_POSITION_Y = "43.000000"
 HSM_CORE_RES_SAMPLING_MULT_SCANLINE_DIR = "50.000000"

@@ -1,4 +1,4 @@
-#reference "shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__2__STD__GDV.slangp"
+#reference ":/shaders/shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__2__STD__GDV.slangp"
 HSM_ASPECT_RATIO_MODE = "5.000000"
 HSM_NON_INTEGER_SCALE = "45.770218"
 HSM_SCREEN_POSITION_Y = "99.000000"
