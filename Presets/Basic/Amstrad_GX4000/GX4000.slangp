@@ -1,6 +1,5 @@
 #reference ":/shaders/shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__BASIC__GDV.slangp"
 HSM_ASPECT_RATIO_MODE = "2.000000"
 HSM_NON_INTEGER_SCALE = "83.17"
-HSM_BZL_NOISE = "10.000000"
 IntroImage = "../../../Graphics/_Backgrounds/Duimon_OSD.png"
 BackgroundImage = "../../../Graphics/_Basic/Amstrad_GX4000/GX4000.png"
