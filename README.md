@@ -33,34 +33,78 @@ Some screenshots...
 
 
 
-Just in case you have never had the shader running, here is a quick guide to it and my graphics.
+## Mega_Bezel_Community
 
-1.    First of all, I really recommend a fresh clean install of Retroarch, just to make sure nothing interferes. I couldn’t get the shader to work at all when I first tried, primarily because I was using an existing RA setup.
+**The paths in my presets have been changed!**
 
-2.    Unpack the shader into the install and follow HSM’s instructions.
+In a move to normalize installations, and keep the shaders folder clean and tidy, the Mega Bezel artistic community has agreed to make it possible to install our various releases in a "Mega_Bezel_Community" folder. (Within the shader folder.)
+
+AFAIK we are all now using relative paths to our assets and absolute paths to HSM's base presets.
+
+This means that adoption of the standard is not mandatory.
+
+___
+
+Most of this will have no effect on usage, but if you decide to adopt the new standard, (And I hope you will.) and are referencing any of my presets, you will need to update your paths.
+
+In an effort to promote this standard I have changed the path in the following installation guide.
+
+So the new file structures is...
+
+    Retroarch/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel
+        	/Graphics
+        	/Presets
+
+
+An example presets folder and contents is...
+
+    Retroarch/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel
+    		/Presets
+    			/Nintendo_3DS
+    				3DS-[ADV]-[LCD-GRID].slangp
+    				3DS-[ADV]-[LCD-GRID]-[Night].slangp
+    				3DS-[STD]-[LCD-GRID].slangp
+    				3DS-[STD]-[LCD-GRID]-[Night].slangp
+    				3DS_Vertical-[ADV]-[LCD-GRID]-[Integer].slangp
+    				3DS_Vertical-[ADV]-[LCD-GRID]-[Integer]-[Night].slangp
+    				3DS_Vertical-[STD]-[LCD-GRID]-[Integer].slangp
+    				3DS_Vertical-[STD]-[LCD-GRID]-[Integer]-[Night].slangp
+    				3DS_Vertical_Alt-[ADV]-[Guest].slangp
+    				3DS_Vertical_Alt-[ADV]-[Guest]-[Night].slangp
+    				3DS_Vertical_Alt-[STD]-[Guest].slangp
+    				3DS_Vertical_Alt-[STD]-[Guest]-[Night].slangp
+
+
+You can install everything to a local clone and update using the following method.
+
+1. Install Git. [https://git-scm.com/downloads](https://git-scm.com/downloads) using the default settings.
+2. Enter the "/Retroarch/shaders" folder and create a "Mega_Bezel_Community" folder if one does not exist.
+3. Enter the "Retroarch/shaders/Mega_Bezel_Community" folder and from the command-line run:
 
 ```
-Set your video driver to Vulcan or GLCore
-
-Set your video aspect ratio to your monitor aspect and set integer scale to OFF
+git clone https://github.com/Duimon/Duimon-Mega-Bezel
 ```
-    
-3.    Install your core, load some content, and try one of the shader presets. (I have been designing around guest-dr-venom.
 
-4.    Once it is working, make a small change in the parameters. (I usually change the “[BEZEL & FRAME COLOR] Color Value/Brightness - Def 10” from the default of 10 to 9.80. Save a shader core preset.
+it will create a "Duimon-Mega-Bezel" folder inside the Mega_Bezel_Community folder. 
 
-5.    Copy my graphics to a folder of your choice. I use “D:\Games\Retroarch\overlays\bezel\Logo”.
+To update, go into *the "Duimon-Mega-Bezel" folder* (note difference) and run
 
-6.    Navigate to the shader preset you saved in step #4. e.g. “D:\Games\RetroArch\shaders\presets\Beetle PSX HW\Beetle PSX HW.slangp”, and open it in a text editor. At the end of the file modify this line,
+```
+git pull
+```
+___
 
-![](./images/background_image_info.jpg)
+**Thanks @drstupid for the method.**
+___
 
 
-to the path of my graphics. e.g. BackgroundImage = "BackgroundImage = "..\overlays\bezel\Logo\Playstation.png".
 
-Make sure you are using one of my HSM shader graphics and not one of my RA overlays. (Although it would still work, you would have to fiddle with parameters to hide the bezel completely.)
+Load your content and then a preset. I recommend creating a core preset next.
 
-Note: You can use an absolute path if you like but it will not be portable.
+Since RA 1.9.1 and the Mega Bezel shader v0.9.00 release, you need to have "Simple Presets" enabled when saving a preset. This will save only changes you make and a reference to the currently loaded preset. This will stop your preset from breaking as I update my presets and HSM updates the shader.
 
-Save the file and give some content a spin. :grin:
+If you are using a multiple system core, and using it for multiple systems, I recommend creating a content directory preset.
 
+---
+
+I hope this makes it easier on some who have had a tough time getting up and running. I also recommend starting with a clean install of RetroArch and following HSMs instructions from the shader thread.
