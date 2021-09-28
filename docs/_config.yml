@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://duimon.github.io/Duimon-Mega-Bezel/photorama/gallery/"  
-  - JOURNAL: "https://duimon.github.io/Duimon-Mega-Bezel/photorama/journal/"
-  - ABOUT: "https://duimon.github.io/Duimon-Mega-Bezel/photorama/about/"
+  - GALLERY: "https://duimon.github.io/Duimon-Mega-Bezel/docs/gallery/"  
+  - JOURNAL: "https://duimon.github.io/Duimon-Mega-Bezel/docs/journal/"
+  - ABOUT: "https://duimon.github.io/Duimon-Mega-Bezel/docs/about/"
 
 # All translation keys
 translations:
