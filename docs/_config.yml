@@ -1,8 +1,8 @@
 # Site settings
-title: PHOTORAMA
+title: Duimon-Mega-Bezel-Graphics
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
+url: "https://duimon.github.io/Duimon-Mega-Bezel"
 baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://duimon.github.io/Duimon-Mega-Bezel/photorama/gallery/"  
+  - JOURNAL: "https://duimon.github.io/Duimon-Mega-Bezel/photorama/journal/"
+  - ABOUT: "https://duimon.github.io/Duimon-Mega-Bezel/photorama/about/"
 
 # All translation keys
 translations:
