@@ -3,7 +3,7 @@ title: Duimon-Mega-Bezel-Graphics
 email: ""
 description: "Photo Journal"
 url: "{{ site.github.url }}"
-baseurl: "/Duimon-Mega-Bezel"
+baseurl: ""
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "{{ site.github.url }}/Duimon-Mega-Bezel/gallery/"  
-  - JOURNAL: "{{ site.github.url }}/Duimon-Mega-Bezel/journal/"
-  - ABOUT: "{{ site.github.url }}/Duimon-Mega-Bezel/about/"
+  - GALLERY: "{{ site.github.url }}/gallery/"  
+  - JOURNAL: "{{ site.github.url }}/journal/"
+  - ABOUT: "{{ site.github.url }}/about/"
 
 # All translation keys
 translations:
