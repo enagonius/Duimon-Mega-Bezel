@@ -1,7 +1,7 @@
 # Site settings
 title: Duimon-Mega-Bezel-Graphics
 email: ""
-description: "Photo Journal"
+description: "Duimon-Mega-Bezel-Graphicsl"
 url: ""
 baseurl: "/Duimon-Mega-Bezel"
 github_username:  "Duimon"
@@ -30,7 +30,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "/Duimon-Mega-Bezel/gallery/"  
-  - JOURNAL: "/Duimon-Mega-Bezel/journal/"
+  - GUIDES: "/Duimon-Mega-Bezel/journal/"
   - ABOUT: "/Duimon-Mega-Bezel/about/"
 
 # All translation keys
