@@ -9,4 +9,4 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 title:		   "Duimon-Mega-Bezel"
 description: "HSM Reflection Shader Graphics"
-author:      "Paul Le"
+author:      "Duimon"
