@@ -7,6 +7,6 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "Duimon-Mega-Bezel"
+title:		   "Duimon-Mega-Bezel-Graphics"
 description: "HSM Reflection Shader Graphics"
 author:      "Duimon"
