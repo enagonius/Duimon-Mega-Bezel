@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "{{ site.github.url }}/gallery/"  
-  - JOURNAL: "{{ site.github.url }}/journal/"
-  - ABOUT: "{{ site.github.url }}/about/"
+  - GALLERY: "/gallery/"  
+  - JOURNAL: "/journal/"
+  - ABOUT: "/about/"
 
 # All translation keys
 translations:
