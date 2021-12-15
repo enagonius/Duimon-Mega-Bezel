@@ -105,6 +105,10 @@ Since RA 1.9.1 and the Mega Bezel shader v0.9.00 release, you need to have "Simp
 
 If you are using a multiple system core, and using it for multiple systems, I recommend creating a content directory preset.
 
----
+___
 
 I hope this makes it easier on some who have had a tough time getting up and running. I also recommend starting with a clean install of RetroArch and following HSMs instructions from the shader thread.
+
+___
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
