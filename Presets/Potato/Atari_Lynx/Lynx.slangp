@@ -1,0 +1,6 @@
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__5__POTATO__LCD-GRID.slangp"
+HSM_ASPECT_RATIO_MODE = "5.000000"
+HSM_NON_INTEGER_SCALE = "58.770267"
+HSM_CURVATURE_MODE = "0.000000"
+IntroImage = "../../../Graphics/_Backgrounds/Duimon_OSD.png"
+BackgroundImage = "../../../Graphics/_Basic/Atari_Lynx/Lynx_Basic.png"

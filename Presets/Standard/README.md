@@ -1,8 +1,8 @@
 ### **Standard Presets.**
 
-Standard presets use the "MBZ__2__STD__GDV.slangp" or the "MBZ__2__STD__LCD-GRID.slangp" base preset. These presets share a subset of features with the Advanced base presets and require a more modest PC.
+Standard presets use the "MBZ__1__ADV__GDV.slangp" or the "MBZ__1__ADV__LCD-GRID.slangp" base preset. These presets share the full feature set of the Mega Bezel shader framework.
 
-The "MBZ__2" designation places them 2nd on the list for PC requirements.
+The "MBZ__1" designation places them 1st on the list for PC requirements.
 
 MBZ__1__ADV__GDV.slangp <------ Highest PC requirements
 MBZ__1__ADV__LCD-GRID.slangp

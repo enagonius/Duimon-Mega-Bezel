@@ -1,0 +1,6 @@
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__5__POTATO__GDV-MINI.slangp"
+HSM_ASPECT_RATIO_MODE = "2.000000"
+HSM_NON_INTEGER_SCALE = "83.17"
+HSM_AMBIENT_LIGHTING_OPACITY = "100.000000"
+IntroImage = "../../../Graphics/_Backgrounds/Duimon_OSD.png"
+BackgroundImage = "../../../Graphics/_Basic/Carbon_Fiber/Carbon_Fiber_Vertical.png"

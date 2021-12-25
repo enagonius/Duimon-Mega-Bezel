@@ -1,5 +1,0 @@
-#reference ":/shaders/shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__BASIC__GDV.slangp"
-HSM_ASPECT_RATIO_MODE = "2.000000"
-HSM_NON_INTEGER_SCALE = "83.17"
-IntroImage = "../../../Graphics/_Backgrounds/Duimon_OSD.png"
-BackgroundImage = "../../../Graphics/_Basic/Carbon_Fiber/Carbon_Fiber.png"
