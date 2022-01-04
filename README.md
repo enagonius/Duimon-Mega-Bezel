@@ -97,7 +97,7 @@ ___
 **Thanks @drstupid for the method.**
 ___
 
-**Note!! If you are manually installing by downloading a zip and extracting it. Make sure to rename the folder from "Duimon-Mega-Bezel-master" to "Duimon-Mega-Bezel".**
+**Note!! If you are manually installing by downloading a zip and extracting it. Make sure to rename the extracted folder from "Duimon-Mega-Bezel-master" to "Duimon-Mega-Bezel".**
 
 For example, the path to my Advanced presets should be...
 
