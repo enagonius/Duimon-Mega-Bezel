@@ -2,9 +2,9 @@
 
 Install the Mega Bezel and my presets according to the instructions on their respective threads.
 
-[Mega Bezel](https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512?u=duimon)
+[Mega Bezel](https:/forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512?u=duimon)
 
-[Duimon_Mega_Bezel graphics & presets.](https://forums.libretro.com/t/duimon-hsm-mega-bezel-graphics-and-presets-feedback-and-updates/28146/2?u=duimon)
+[Duimon_Mega_Bezel graphics & presets.](https:/forums.libretro.com/t/duimon-hsm-mega-bezel-graphics-and-presets-feedback-and-updates/28146/2?u=duimon)
 
 
 You will need the "Arcade (MAME - Current)" core and the hash folder from a recent version of MAME. (0.237 as of this writing.) (The MAME hash folder needs to be at "retroarch/system/mame/hash")
