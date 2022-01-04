@@ -97,6 +97,15 @@ ___
 **Thanks @drstupid for the method.**
 ___
 
+**Note!! If you are manually installing by downloading a zip and extracting it. Make sure to rename the folder from "Duimon-Mega-Bezel-master" to "Duimon-Mega-Bezel".**
+
+For example, the path to my Advanced presets should be...
+
+```plaintext
+%RetroarchFolder%/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Presets/Advanced
+```
+
+___
 
 
 Load your content and then a preset. I recommend creating a core preset next.
