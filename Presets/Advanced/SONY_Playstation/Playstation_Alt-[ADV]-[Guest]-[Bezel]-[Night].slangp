@@ -1,4 +1,5 @@
 #reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__1__ADV__GDV.slangp"
+HSM_ASPECT_RATIO_ORIENTATION = "1.000000"
 HSM_BG_SCALE_KEEP_ASPECT = "0.000000"
 HSM_BG_FILL_MODE = "1.000000"
 HSM_BG_MIRROR_WRAP = "0.000000"
