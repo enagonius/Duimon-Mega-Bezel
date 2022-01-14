@@ -15,5 +15,5 @@ HSM_AMBIENT_LIGHTING_OPACITY = "100.000000"
 HSM_DECAL_SCALE_MODE = "2.000000"
 IntroImage = "../../../Graphics/_Backgrounds/Duimon_OSD.png"
 BackgroundImage = "../../../Graphics/Panasonic_3DO/3DO.png"
-LEDImage = "../../../Graphics/3DO/Panasonic_3DO_LED.png"
+LEDImage = "../../../Graphics/Panasonic_3DO/3DO_LED.png"
 
