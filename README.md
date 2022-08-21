@@ -33,33 +33,39 @@ Some screenshots...
 
 
 
-## Mega_Bezel_Community
+## Installation
 
-**The paths in my presets have been changed!**
+The Mega Bezel Community is a collaboration between a growing number of artists and the shader developer.
 
-In a move to normalize installations, and keep the shaders folder clean and tidy, the Mega Bezel artistic community has agreed to make it possible to install our various releases in a "Mega_Bezel_Community" folder. (Within the shader folder.)
+We have agreed, in an effort to create cohesion among our various projects, to intend 
+our works reside in a "Mega_Bezel_Packs" folder. (Within the RA shader folder.) This
+keeps the shader folder tidy while still allowing for a relatively short browse to the 
+artists presets.
 
-AFAIK we are all now using relative paths to our assets and absolute paths to HSM's base presets.
-
-This means that adoption of the standard is not mandatory.
+**For cross-platform compatibility, the "Mega_Bezel_Packs" folder is now required. All the paths are now relative.**
 
 ___
 
-Most of this will have no effect on usage, but if you decide to adopt the new standard, (And I hope you will.) and are referencing any of my presets, you will need to update your paths.
+## Mega Bezel
 
-In an effort to promote this standard I have changed the path in the following installation guide.
+Just a note that the Mega Bezel is not bundled with my pack. It will need to be installed first using the instructions on the [Mega Bezel thread](https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512).
+___
 
-So the new file structures is...
 
-    Retroarch/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel
+## Installation using the release zip
+
+The folder structure is...
+
+    Retroarch/shaders/Mega_Bezel_Packs/Duimon-Mega-Bezel
         	/Graphics
         	/Presets
 
 
 An example presets folder and contents is...
 
-    Retroarch/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel
+    Retroarch/shaders/Mega_Bezel_Packs/Duimon-Mega-Bezel
     		/Presets
+    		    /Advanced
     			/Nintendo_3DS
     				3DS-[ADV]-[LCD-GRID].slangp
     				3DS-[ADV]-[LCD-GRID]-[Night].slangp
@@ -74,20 +80,44 @@ An example presets folder and contents is...
     				3DS_Vertical_Alt-[STD]-[Guest].slangp
     				3DS_Vertical_Alt-[STD]-[Guest]-[Night].slangp
 
+Some Retroarch installations (Linux) have the "shader" folder outside of the root Retroarch folder. The preset paths are relative so the "shaders" folder can be anywhere (On any drive/mount.) as long as the correct shader path is defined in the Retroarch settings.
+
+Unpack the release zip and move the newly extracted "Duimon-Mega-Bezel" folder to "shaders/Mega_Bezel_Packs". Create the "Mega_Bezel_Packs" folder first if one does not exist.
+
+___
+
+*A note on paths and folder names.* The paths in the presets are relative. (i.e. `../../../../../shaders_slang`
+
+
+You may have a very valid reason to use different folder names. It is the folder depth that is important. For example your paths could be...
+
+
+    Retroarch/shaders/Flowers/Roses
+    		/Presets
+    		    /Advanced
+    			/Nintendo_3DS
+
+...and it would still work. :grin:
+
+The following git method will require the "Duimon-Mega-Bezel folder name.
+___
+
+## Installation using git
+
 
 You can install everything to a local clone and update using the following method.
 
 1. Install Git. [https://git-scm.com/downloads](https://git-scm.com/downloads) using the default settings.
-2. Enter the "/Retroarch/shaders" folder and create a "Mega_Bezel_Community" folder if one does not exist.
-3. Enter the "Retroarch/shaders/Mega_Bezel_Community" folder and from the command-line run:
+2. Enter the *"/Retroarch/shaders"* folder and create a *"Mega_Bezel_Packs"* folder if one does not exist.
+3. Enter the *"Retroarch/shaders/Mega_Bezel_Packs"* folder and from the command-line run:
 
 ```
 git clone https://github.com/Duimon/Duimon-Mega-Bezel
 ```
 
-it will create a "Duimon-Mega-Bezel" folder inside the Mega_Bezel_Community folder. 
+It will create a *"Duimon-Mega-Bezel"* folder inside the *"Mega_Bezel_Packs"* folder. 
 
-To update, go into *the "Duimon-Mega-Bezel" folder* (note difference) and run
+To update, go into the *"Duimon-Mega-Bezel"* folder (note the path difference) and run
 
 ```
 git pull
@@ -97,15 +127,6 @@ ___
 **Thanks @drstupid for the method.**
 ___
 
-**Note!! If you are manually installing by downloading a zip and extracting it. Make sure to rename the extracted folder from "Duimon-Mega-Bezel-master" to "Duimon-Mega-Bezel".**
-
-For example, the path to my Advanced presets should be...
-
-```plaintext
-%RetroarchFolder%/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Presets/Advanced
-```
-
-___
 
 
 Load your content and then a preset. I recommend creating a core preset next.
@@ -114,9 +135,9 @@ Since RA 1.9.1 and the Mega Bezel shader v0.9.00 release, you need to have "Simp
 
 If you are using a multiple system core, and using it for multiple systems, I recommend creating a content directory preset.
 
-___
+---
 
-I hope this makes it easier on some who have had a tough time getting up and running. I also recommend starting with a clean install of RetroArch and following HSMs instructions from the shader thread.
+I hope this makes it easier on some who have had a tough time getting up and running. I also recommend starting with a clean install of RetroArch and following the installation instructions from [HSM's shader thread](https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512).
 
 ___
 
