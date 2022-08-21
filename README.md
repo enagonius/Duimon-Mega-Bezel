@@ -100,6 +100,8 @@ You may have a very valid reason to use different folder names. It is the folder
 ...and it would still work. :grin:
 
 The following git method will require the "Duimon-Mega-Bezel folder name.
+
+If this explanation makes your brain hurt, just use the Mega_Bezel_Packs folder name and try not to think about it too much. :wink:
 ___
 
 ## Installation using git
